@@ -20,7 +20,7 @@ A **Movie Guide Web Application** built using **HTML5**, **CSS3**, and **Vanilla
 ![Home Page Preview](./Screenshot1.png)
 
 ### 🖼️ Screenshot2 – Movie Search Preview  
-![Home Searched Preview](./Screenshot1.png)
+![Home Searched Preview](./Screenshot2.png)
 ---
 
 ## 🎥 Demo
